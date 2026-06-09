@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+ # -*- coding: utf-8 -*-
 """
 서울시 독거노인 폭염 취약지역 분석 대시보드
 - 핵심 목표: 자치구별 독거노인 수요와 무더위쉼터 공급의 불균형을 찾아 개선 우선지역을 제안
@@ -24,7 +24,7 @@ st.set_page_config(
     page_icon="🌡️",
     layout="wide",
 )
-
+ 
 DB_CANDIDATES = ["final.db", "heatwave_sql_final.db", "heatwave_shelter_analysis.db"]
 HEAT_CSV_CANDIDATES = ["heat_illness.csv", "온열질환.csv", "온열질환 발생현황.csv"]
 HEAT_XLSX_CANDIDATES = ["heat_illness.xlsx", "온열질환.xlsx", "온열질환 발생현황.xlsx"]
