@@ -1,2 +1,0 @@
-# heatwave_project
-

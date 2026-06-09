@@ -3,5 +3,3 @@ pandas
 plotly
 folium
 streamlit-folium
-pyshp
-pyproj
