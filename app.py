@@ -24,7 +24,7 @@ st.set_page_config(
     page_icon="🌡️",
     layout="wide",
 )
-
+ 
 DB_CANDIDATES = ["final.db", "heatwave_sql_final.db", "heatwave_shelter_analysis.db"]
 HEAT_CSV_CANDIDATES = ["heat_illness.csv", "온열질환.csv", "온열질환 발생현황.csv"]
 HEAT_XLSX_CANDIDATES = ["heat_illness.xlsx", "온열질환.xlsx", "온열질환 발생현황.xlsx"]
