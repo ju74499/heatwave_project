@@ -7,7 +7,7 @@
 # 2) 터미널에서 streamlit run app.py 를 실행합니다.
 # 3) 지도 파일이 있다면 data 폴더 안에 GeoJSON 파일을 넣습니다.
 # ------------------------------------------------------------
- 
+
 import os
 import json
 import copy
